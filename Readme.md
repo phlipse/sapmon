@@ -3,9 +3,7 @@ SAPmon reads in output of CCMS function calls on a SAP system and converts it to
 
 ## Get it
 
-**Precompiled binaries could be taken from [latest release](https://github.com/phlipse/sapmon/releases)!**
-
-If you want to compile it, use the makefile from the repository:
+Use the makefile from the repository:
 
 ```
 make all
